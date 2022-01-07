@@ -14,8 +14,8 @@
   <version>${revision}${changelist}</version>
   <packaging>hpi</packaging>
 
-  <name>JavaBeans Activation Framework (JAF) API</name>
-  <description>Plugin providing the JavaBeans Activation Framework (JAF) API for other plugins</description>
+  <name>Jakarta Activation API</name>
+  <description>Plugin providing the Jakarta Activation API for other plugins</description>
   <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
 
   <licenses>
